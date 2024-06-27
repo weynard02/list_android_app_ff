@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">FinalFantasyApplication</string>
+    <string name="games_name">Game</string>
+    <string name="description">Description</string>
+    <string name="review">Review:</string>
+    <string name="game_review">0</string>
+    <string name="character">Character</string>
+    <string name="about_me">About Me</string>
+
+    <string-array name="data_name">
+        <item>Final Fantasy</item>
+        <item>Final Fantasy II</item>
+        <item>Final Fantasy III</item>
+        <item>Final Fantasy IV</item>
+        <item>Final Fantasy V</item>
+        <item>Final Fantasy VI</item>
+        <item>Final Fantasy VII</item>
+        <item>Final Fantasy VIII</item>
+        <item>Final Fantasy IX</item>
+        <item>Final Fantasy X</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>And so their journey began. The four Warriors of Light felt overwhelmed by the great task destiny had placed upon them. Final Fantasy is a fantasy role-playing video game developed and published by Square in 1987. It is the first game in Square s Final Fantasy series, created by Hironobu Sakaguchi. Originally released for the NES, Final Fantasy was remade for several video game consoles and is frequently packaged with Final Fantasy II in video game collections. The first Final Fantasy story follows four youths called the Warriors of Light, who each carry one of their world four elemental crystals which have been darkened by the four Elemental Fiends. Together, they quest to defeat these evil forces, restore light to the crystals, and save their world.</item>
+        <item>A long-lived peace is at an end. The emperor of Palamecia has called forth monsters from the underworld and has begun his campaign for world conquest. Final Fantasy II is a fantasy role-playing video game developed and published by Square in 1988 for the Family Computer as the second installment of the Final Fantasy series. The game has received numerous enhanced remakes for the WonderSwan Color, the PlayStation, the Game Boy Advance, the PlayStation Portable, iOS, Android and Windows. As neither this game nor Final Fantasy III were initially released outside Japan, Final Fantasy IV was originally released in North America as Final Fantasy II, so as not to confuse players. Following enhanced versions for iOS and Android in 2010 and 2012 respectively, the game was re-released again as part of the 2021 Final Fantasy Pixel Remaster series.</item>
+        <item>The Gulgan thus prophesied: The earthquake was only the beginning. Final Fantasy III is a role-playing video game developed and published by Square for the Family Computer. The third installment in the Final Fantasy series, it is the first numbered Final Fantasy game to feature the job-change system. The story revolves around four orphaned youths drawn to a crystal of light. The crystal grants them some of its power, and instructs them to go forth and restore balance to the world. Not knowing what to make of the crystal s pronouncements, but nonetheless recognizing the importance of its words, the four inform their adoptive families of their mission and set out to explore and bring back balance to the world.</item>
+        <item>And so, the dark knight Cecil was stripped of his command as the captain of the Red Wings. Final Fantasy IV, titled Final Fantasy II in its initial North American release, is a role-playing video game developed and published by Square (now Square Enix) for the Super Nintendo Entertainment System. Released in 1991, it is the fourth main installment of the Final Fantasy series. The game s story follows Cecil, a dark knight, as he tries to prevent the sorcerer Golbez from seizing powerful crystals and destroying the world. He is joined on this quest by a frequently changing group of allies. Final Fantasy IV introduced innovations that became staples of the Final Fantasy series and role-playing games in general. Its Active Time Battle system was used in five subsequent Final Fantasy games, and unlike prior games in the series, IV gave each character their own unchangeable character class — although at a few points in the story, a dark knight will choose the path of a paladin, or a summoner will evolve to a new tier of spellcasting.</item>
+        <item>Fire, Water, Wind, Earth. The peace and prosperity of the world is thanks to the power of these crystals. Final Fantasy V is a fantasy role-playing video game developed and published by Square in 1992. It is the fifth main installment of the Final Fantasy series. The game first appeared only in Japan on Nintendo s Super Famicom (known internationally as the Super Nintendo Entertainment System). It has been ported with minor differences to Sony s PlayStation and Nintendo s Game Boy Advance. An original video animation produced in 1994 called Final Fantasy: Legend of the Crystals serves as a sequel to the events depicted in the game. It was released for the PlayStation Network on April 6, 2011, in Japan.</item>
+        <item>The ancient War of the Magi  When its flames at last receded, only the charred husk of a world remained. Final Fantasy VI, also known as Final Fantasy III from its initial North American release, is a 1994 role-playing video game developed and published by Square for the Super Nintendo Entertainment System. It is the sixth main entry in the Final Fantasy series, the final to feature 2D sprite based graphics, and the first to be directed by someone other than series creator Hironobu Sakaguchi; the role was instead filled by Yoshinori Kitase and Hiroyuki Ito. Long-time collaborator Yoshitaka Amano returned as character designer and concept artist, while composer Nobuo Uematsu returned to compose the game s score, which has been released on several soundtrack albums.</item>
+        <item>An energy manufacturing mega-company known as Shinra, Inc. is harvesting the sheer life energy of the Planet (known as the Lifestream) as a simple fossil fuel. Final Fantasy VII is a 1997 role-playing video game developed by Square for the PlayStation console and the seventh main installment in the Final Fantasy series. Square published the game in Japan, and it was released in other regions by Sony Computer Entertainment, becoming the first game in the main series to have a PAL release. The game s story follows Cloud Strife, a mercenary who joins an eco-terrorist organization to stop a world-controlling megacorporation from using the planet s life essence as an energy source. Events send Cloud and his allies in pursuit of Sephiroth, a superhuman who seeks to wound the planet and harness its healing power to be reborn as a god. During their journey, Cloud bonds with his party members, including Aerith Gainsborough, who holds the secret to saving their world.</item>
+        <item>The civilization is fragmented into small city-states and other autonomous groups. Final Fantasy VIII is a 1999 role-playing video game developed and published by Square for the PlayStation console. It is the eighth main installment in the Final Fantasy series. Set on an unnamed fantasy world with science fiction elements, the game follows a group of young mercenaries, led by Squall Leonhart, as they are drawn into a conflict sparked by a sorceress named Edea Kramer who seized control of a powerful military state. During the quest to defeat the sorceress and the forces manipulating her, Squall struggles with his role as leader and develops a romance with one of his comrades, Rinoa Heartilly.</item>
+        <item>The world of Gaia is divided into four continents, the most populated being the Mist Continent. Final Fantasy IX is a 2000 role-playing video game developed and published by Square for the PlayStation video game console. It is the ninth game in the main Final Fantasy series. The plot focuses on a war between nations in a medieval fantasy world called Gaia. Players follow a thief named Zidane Tribal who kidnaps princess Garnet Til Alexandros XVII as part of a ploy by the neighboring nation of Lindblum. He joins Garnet and a growing cast of characters on a quest to take down her mother, Queen Brahne of Alexandria, who started the war.</item>
+        <item>The world is terrorized by a supernatural monster the people call Sin that appears invincible. Final Fantasy X is a role-playing video game developed and published by Square as the tenth main entry in the Final Fantasy series. Originally released in 2001 for PlayStation 2, the game was re-released as Final Fantasy X/X-2 HD Remaster for PlayStation 3 and PlayStation Vita in 2013, for PlayStation 4 in 2015, Windows in 2016, and for Nintendo Switch and Xbox One in 2019. The game marks the Final Fantasy series transition from entirely pre-rendered backdrops to fully three-dimensional areas (though some areas were still pre-rendered), and is also the first in the series to feature voice acting.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ff1</item>
+        <item>@drawable/ff2</item>
+        <item>@drawable/ff3</item>
+        <item>@drawable/ff4</item>
+        <item>@drawable/ff5</item>
+        <item>@drawable/ff6</item>
+        <item>@drawable/ff7</item>
+        <item>@drawable/ff8</item>
+        <item>@drawable/ff9</item>
+        <item>@drawable/ff10</item>
+    </integer-array>
+
+    <string-array name="data_character">
+        <item>Warrior of Light</item>
+        <item>Firion</item>
+        <item>Onion Knight</item>
+        <item>Cecil</item>
+        <item>Bartz</item>
+        <item>Terra</item>
+        <item>Cloud</item>
+        <item>Squall</item>
+        <item>Zidane</item>
+        <item>Tidus</item>
+    </string-array>
+
+    <integer-array name="data_score">
+        <item>4</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+    </integer-array>
+
+    <string-array name="data_trailer">
+        <item>https://youtu.be/nkMmEpdOdw8?si=YxiMJNSEK_xgmIT5</item>
+        <item>https://www.youtube.com/watch?v=NnDFWezLgUc</item>
+        <item>https://www.youtube.com/watch?v=hAVWo7FUDOI</item>
+        <item>https://www.youtube.com/watch?v=1-Gu16kCReo</item>
+        <item>https://www.youtube.com/watch?v=GaNPRmcg_x0</item>
+        <item>https://www.youtube.com/watch?v=wOkScEsyOYQ</item>
+        <item>https://www.youtube.com/watch?v=fNJ1y9YUiLY</item>
+        <item>https://www.youtube.com/watch?v=MtMGzG_91fY</item>
+        <item>https://www.youtube.com/watch?v=5XRB3bxC47M</item>
+        <item>https://www.youtube.com/watch?v=Dc1A8hzXOMQ</item>
+    </string-array>
+
+    <string name="my_name">Alexander Weynard Samsico</string>
+    <string name="my_email">samsicoweynard@gmail.com</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="watch_trailer">Watch Trailer</string>
+</resources>
